@@ -5,4 +5,3 @@ if __name__ == '__main__':
     arrset = set(arr)
     arrset.remove(mx)
     print(max(arrset))
-
