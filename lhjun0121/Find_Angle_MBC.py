@@ -3,4 +3,4 @@ ab = int(input())
 bc = int(input())
 output = math.atan(ab/bc)
 
-print(int(math.degrees(output)),chr(176),sep="")
+print(round(math.degrees(output)),chr(176),sep="")
