@@ -25,4 +25,4 @@ if __name__ == '__main__':
     for i in range(n):
         for j in range(m):
             print(t[i][j], end=' ')
-        print(''
+        print('')
