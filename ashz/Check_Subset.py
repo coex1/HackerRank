@@ -14,4 +14,4 @@ for _ in range(T):
     if check:
         print('True')
     else:
-        print('False'
+        print('False')
