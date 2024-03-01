@@ -4,4 +4,4 @@ nlist = input().split(' ')
 b = int(input())
 blist = input().split(' ')
 
-print(len(set(nlist).union(blist))
+print(len(set(nlist).union(blist)))
