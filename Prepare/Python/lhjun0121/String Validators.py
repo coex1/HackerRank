@@ -1,0 +1,12 @@
+s = input()
+has_alnum = any(char.isalnum() for char in s)
+has_alpha = any(char.isalpha() for char in s)
+has_digit = any(char.isdigit() for char in s)
+has_lower = any(char.islower() for char in s)
+has_upper = any(char.isupper() for char in s)
+    
+print(has_alnum)
+print(has_alpha)
+print(has_digit)
+print(has_lower)
+print(has_upper)
