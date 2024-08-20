@@ -17,7 +17,6 @@ import sys
 
 def squares(a, b):
     # Write your code here
-    res = 0
     starting = math.ceil(math.sqrt(a))
     ending = math.ceil(math.sqrt(b))
     if ending == math.sqrt(b):
